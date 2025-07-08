@@ -6,3 +6,6 @@ scikit-learn==1.4.2
 tensorflow==2.13.0
 tensorboard==2.13.0
 streamlit==1.35.0
+scikeras
+ntlk
+
